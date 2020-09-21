@@ -1,0 +1,5 @@
+rootProject.name = 'edu'
+include 'java'
+include 'spring'
+include 'common'
+
